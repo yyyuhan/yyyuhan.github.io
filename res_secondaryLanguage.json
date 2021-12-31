@@ -1,0 +1,167 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 我叫曹雨菡，对分布式系统和强化学习有较强兴趣，欢迎一起交流。",
+    "section_name": {
+      "about": "关于我",
+      "projects": "项目介绍",
+      "skills": "技能",
+      "experience": "工作经历",
+      "education": "教育经历"
+    }
+  },
+  "projects": [
+    {
+      "title": "Animal Shelter",
+      "startDate": "2020",
+      "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Photography",
+      "startDate": "2018",
+      "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "3D Object Viewer",
+      "startDate": "2015",
+      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "微软",
+      "title": "AI 工程师",
+      "years": "2022.01 - 现在",
+      "mainTech": [
+        "英国 剑桥"
+      ],
+      "description": [],
+      "technologies": [
+        "Reinforcement Learning",
+        "C++",
+        "Python"
+      ]
+    },
+    {
+      "company": "华为英国研究院",
+      "title": "系统整合工程师",
+      "years": "2021.09 - 2021.12",
+      "mainTech": [
+        "英国 剑桥"
+      ],
+      "description": [
+        "设计并开发网页，打通前端用户和后端逻辑证明组件的沟通"
+      ],
+      "technologies": [
+        "JavaScript",
+        "Haskell",
+        "Bootstrap",
+        "REST API",
+        "HTTP"
+      ]
+    },
+    {
+      "company": "腾讯游戏",
+      "title": "高级后台开发工程师",
+      "years": "2017.12 – 2021.07",
+      "mainTech": [
+        "中国 深圳"
+      ],
+      "description": [
+        "负责服务平台后台核心模块的设计和开发。该平台已接入包括王者荣耀、和平精英在内的 120 余款业务，日常 QPS 60w",
+        "设计并开发游戏内直播服务，包括官方直播间转播、弹幕交互、观赛领奖等功能。已接入 3 款业务，QPS 峰值 2.8w",
+        "开发和维护游戏内社区服务，包括玩家动态发表、评论和点赞等功能。已接入 8 款业务"
+      ],
+      "technologies": [
+        "Linux",
+        "C++",
+        "PHP",
+        "Redis",
+        "MySql"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "爱丁堡大学",
+      "degree": "硕士 计算机科学",
+      "years": "2016.09 - 2017.11",
+      "mainTech": [
+        "英国 爱丁堡"
+      ],
+      "description": [],
+      "technologies": [
+        "Machine Learning and Pattern Recognition",
+        "Extreme Computing"
+      ]
+    },
+    {
+      "school": "西安交通大学",
+      "degree": "学士 软件工程",
+      "years": "2012.09 - 2016.06",
+      "mainTech": [
+        "中国 西安"
+      ],
+      "description": [],
+      "technologies": [
+        "Programming Languages",
+        "Data Structures",
+        "Operating Systems",
+        "Web Programming"
+      ]
+    }
+  ]
+}

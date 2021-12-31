@@ -1,0 +1,123 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Yuhan Cao. I'm interested in distributed system and reinforcement learning. Thank you.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience",
+      "education": "Education"
+    }
+  },
+  "projects": [
+    {
+      "title": "Animal Shelter",
+      "startDate": "2020",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Microsoft",
+      "title": "AI Research Engineer",
+      "years": "2022.01 - present",
+      "mainTech": [
+        "Cambridge, UK"
+      ],
+      "description": [],
+      "technologies": [
+        "Reinforcement Learning",
+        "C++",
+        "Python"
+      ]
+    },
+    {
+      "company": "Huawei UK Research Centre",
+      "title": "System Integration Engineer",
+      "years": "2021.09 - 2021.12",
+      "mainTech": [
+        "Cambridge, UK"
+      ],
+      "description": [
+        "Built a single web page application as a bridge between users and a Theorem Proving kernel component."
+      ],
+      "technologies": [
+        "JavaScript",
+        "Haskell",
+        "Bootstrap",
+        "REST API",
+        "HTTP"
+      ]
+    },
+    {
+      "company": "Tencent Games",
+      "title": "Senior Software Engineer",
+      "years": "2017.12 – 2021.07",
+      "mainTech": [
+        "Shenzhen, China"
+      ],
+      "description": [
+        "Developed the key module of a platform that provides services for marketing activities in 120+ mobile games with over 600K queries per second (QPS).",
+        "Designed and developed an eSports live streaming service whose peak concurrent users (PCU) reached 35K.",
+        "Efficiently deployed and maintained services engineered by the team. Dealt with process bottlenecks by providing tools that slash manpower input by 25%."
+      ],
+      "technologies": [
+        "Linux",
+        "C++",
+        "PHP",
+        "Redis",
+        "MySql"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Edinburgh",
+      "degree": "MSc in Computer Science",
+      "years": "2016.09 - 2017.11",
+      "mainTech": [
+        "Edinburgh, UK"
+      ],
+      "description": [],
+      "technologies": [
+        "Machine Learning and Pattern Recognition",
+        "Extreme Computing"
+      ]
+    },
+    {
+      "school": "Xi'an Jiaotong University",
+      "degree": "BEng in Software Engineering",
+      "years": "2012.09 - 2016.06",
+      "mainTech": [
+        "Xi'an, China"
+      ],
+      "description": [],
+      "technologies": [
+        "Programming Languages",
+        "Data Structures",
+        "Operating Systems",
+        "Web Programming"
+      ]
+    }
+  ]
+}
