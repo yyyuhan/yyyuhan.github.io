@@ -1,7 +1,10 @@
 {
   "basic_info": {
     "name": "Yuhan Cao",
-    "titles": [ "Back-end Developer", "AI Research Engineer" ],
+    "titles": [
+      "Back-end Developer",
+      "AI Research Engineer"
+    ],
     "social": [
       {
         "name": "github",
@@ -12,6 +15,11 @@
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/yuhan-cao-859633129/",
         "class": "fab fa-linkedin"
+      },
+      {
+        "name": "zhihu",
+        "url": "https://www.zhihu.com/people/zhi-zhi-hu-59-54/posts",
+        "class": "fab fa-zhihu"
       }
     ],
     "image": "myProfile.jpeg"

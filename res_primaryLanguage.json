@@ -4,7 +4,7 @@
     "description": "👋 I'm Yuhan Cao. I'm interested in distributed system and reinforcement learning. Thank you.",
     "section_name": {
       "about": "About me",
-      "projects": "Projects",
+      "projects": "Posts",
       "skills": "Skills",
       "experience": "Experience",
       "education": "Education"
@@ -12,28 +12,29 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "Copy Elision in C++",
+      "startDate": "2021.09",
+      "description": "I was inspired by a piece of code and got to know more about the property of copy elision in C++.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/p1.jpg"
       ],
-      "url": "",
+      "url": "https://zhuanlan.zhihu.com/p/405878306",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-cplusplus-plain",
+          "name": "C++"
         }
       ]
+    },
+    {
+      "title": "Loop Invariant in Quick Sort",
+      "startDate": "2021.09",
+      "description": "Bothered by the boundary condition when writing sorting algorithm? The concept of loop invariant is here to help.",
+      "images": [
+        "images/portfolio/p2.jpeg"
+      ],
+      "url": "https://zhuanlan.zhihu.com/p/407220947",
+      "technologies": []
     }
   ],
   "experience": [
