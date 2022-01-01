@@ -60,7 +60,7 @@
         "英国 剑桥"
       ],
       "description": [
-        "设计并开发网页，打通前端用户和后端逻辑证明组件的沟通"
+        "设计及开发单页应用，建立前端用户与后端逻辑证明组件的通信能力"
       ],
       "technologies": [
         "JavaScript",
@@ -71,8 +71,8 @@
       ]
     },
     {
-      "company": "腾讯游戏",
-      "title": "高级后台开发工程师",
+      "company": "腾讯",
+      "title": "后台开发高级工程师",
       "years": "2017.12 – 2021.07",
       "mainTech": [
         "中国 深圳"
@@ -114,10 +114,10 @@
       ],
       "description": [],
       "technologies": [
-        "Programming Languages",
-        "Data Structures",
-        "Operating Systems",
-        "Web Programming"
+        "Java",
+        "数据结构",
+        "操作系统",
+        "计算机网络"
       ]
     }
   ]

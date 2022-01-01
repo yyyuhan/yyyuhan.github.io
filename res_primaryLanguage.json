@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Yuhan Cao. I'm interested in distributed system and reinforcement learning. Thank you.",
+    "description": "👋 My name is Yuhan Cao. I am interested in distributed systems and reinforcement learning. Thank you.",
     "section_name": {
       "about": "About me",
       "projects": "Posts",
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "company": "Tencent Games",
+      "company": "Tencent",
       "title": "Senior Software Engineer",
       "years": "2017.12 – 2021.07",
       "mainTech": [
@@ -114,10 +114,10 @@
       ],
       "description": [],
       "technologies": [
-        "Programming Languages",
+        "Java",
         "Data Structures",
         "Operating Systems",
-        "Web Programming"
+        "Computer Networks"
       ]
     }
   ]
